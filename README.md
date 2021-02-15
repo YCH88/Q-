@@ -58,3 +58,6 @@ Her işlemin / işlevin void noktasına bir return değeri vardır. Void yerine 
 Kayıt veri türlerinin tanımı (tür yerine newtype anahtar sözcüğünü kullanarak).
 
 ############################################################################################################################################
+
+Ekstra kaynak:
+https://www.youtube.com/watch?v=dgoXdjFaegs&ab_channel=MustafaKaraerler
